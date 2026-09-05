@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/logo.svg" width="120" alt="Ainul Haq Portfolio Logo">
-
 # 🌐 Ainul Haq — Cyber Portfolio
 
 A professional and responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.

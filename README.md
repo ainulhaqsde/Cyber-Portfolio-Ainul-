@@ -8,9 +8,9 @@ It highlights my **technical skills, projects, education, and experience** as a 
 
 🚀 **Live Demo:** [View Portfolio](https://cyberportfolioainul.vercel.app/)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-E07020?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ainul.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-E07020?style=for-the-badge\&logo=vercel\&logoColor=white)](https://cyberportfolioainul.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ainulhaqsde)
-[![Resume](https://img.shields.io/badge/View_Resume-FBDBAF?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=111111)](./Ainul_Haq_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View_Resume-FBDBAF?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=111111)](./AHU_RESUME.pdf)
 
 </div>
 

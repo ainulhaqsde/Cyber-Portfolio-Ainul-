@@ -6,7 +6,7 @@ A professional and responsive **personal portfolio website** built using **HTML,
 
 It highlights my **technical skills, projects, education, and experience** as a **Software Engineer, Web Developer, Data & AI Enthusiast**.
 
-🚀 **Live Demo:** [View Portfolio](https://portfolio-ainul.vercel.app/)
+🚀 **Live Demo:** [View Portfolio](https://cyberportfolioainul.vercel.app/)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-E07020?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ainul.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ainulhaqsde)
@@ -40,7 +40,6 @@ It highlights my **technical skills, projects, education, and experience** as a 
 * **Deployment:** Vercel
 
 ---
-
 
 ## 📂 Project Structure
 
@@ -92,7 +91,7 @@ You can view or download my resume from the portfolio website.
 
 The portfolio is deployed using **Vercel** and automatically updates whenever new changes are pushed to the main GitHub branch.
 
-🔗 [Open Live Website](https://portfolio-ainul.vercel.app/)
+🔗 [Open Live Website](https://cyberportfolioainul.vercel.app/)
 
 ---
 
@@ -101,7 +100,7 @@ The portfolio is deployed using **Vercel** and automatically updates whenever ne
 **Ainul Haq**
 
 * GitHub: [@ainulhaqsde](https://github.com/ainulhaqsde)
-* Portfolio: [portfolio-ainul.vercel.app](https://portfolio-ainul.vercel.app/)
+* Portfolio: [portfolio-ainul.vercel.app](https://cyberportfolioainul.vercel.app/)
 
 ---
 

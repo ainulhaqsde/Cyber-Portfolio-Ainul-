@@ -100,7 +100,7 @@ The portfolio is deployed using **Vercel** and automatically updates whenever ne
 **Ainul Haq**
 
 * GitHub: [@ainulhaqsde](https://github.com/ainulhaqsde)
-* Portfolio: [portfolio-ainul.vercel.app](https://cyberportfolioainul.vercel.app/)
+* Portfolio: [cyberportfolioainul](https://cyberportfolioainul.vercel.app/)
 
 ---
 
